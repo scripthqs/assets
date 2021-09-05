@@ -1,4 +1,4 @@
-now=$(date "+%Y-%m-%d")
+now=$(date "+%Y-%m-%d %H:%M:%S")
 echo "进入项目目录"
 cd D:\user\Desktop\scripthqs\assets
 echo "开始提交"
