@@ -1,4 +1,4 @@
-# 存放静态资源的仓库
+# 图床仓库
 
 1. 新建仓库，将本地仓库的图片上传到远程仓库
 2. 然后在其他地方就可以使用远程仓库中资源（主要是图片）的链接引入
@@ -58,7 +58,7 @@ token: 码云的token，复制上一步的token
 path: 图片在仓库的保存路径，可以根据自己的情况填写
 ```
 
-### 使用 jsdelivr 的cdn加速服务
+### 使用 jsdelivr 的 cdn 加速服务
 
 ```text
 https://cdn.jsdelivr.net/gh/scripthqs/assets
